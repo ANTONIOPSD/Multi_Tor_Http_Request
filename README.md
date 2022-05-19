@@ -13,5 +13,7 @@ Copy the geoip and geoip6 files inside the geoip folder
 Install dependencies:
 pip install -r requirements.txt
 
+![imagen](https://user-images.githubusercontent.com/1978099/169211489-e7b95b3a-ddb0-44b4-9688-298d4510dd70.png)
+You can edit that with your custom http requests.
 
 Tested on Python 3.9.12 (On Windows)
