@@ -4,4 +4,4 @@ start_tor_port = 44000 # Change yuour starting Tor port, each instance needs 2 p
 request_delay = 100  # Time between each request in milliseconds.
 socks5_url_list = ["https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt"] # Url with a list of socks5 proxy server in plain text (ip per line). You can add multiple URLs separated by a comma.
 HashedControlPassword = 16:3FACCCABFFB7AD9E60DD9E1FED4642729383AEB902059E3774721F43CE  # test1234   This is the password for the tor cotroller
-ExcludeNodes = {kp},{kp} # List of countries codes to exclude nodes (north korea 2 times as a placeholder)
+ExcludeNodes = {kp},{kp} # List of countrie codes to exclude nodes (north korea 2 times as a placeholder)
