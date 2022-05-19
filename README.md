@@ -57,7 +57,7 @@ The scripts are just examples so you will probably have to modify many parts of 
 
 ### 3.  Copy the geoip and geoip6 files inside the geoip folder
 
-### Once you've done that, you can install all the needed python modules (tested on Windows 11, Python 3.9.12):
+ Once you've done that, you can install all the needed python modules (tested on Windows 11, Python 3.9.12):
 
 ### pip install -r requirements.txt
 
@@ -72,7 +72,7 @@ and after that it will start all of them. **(remember the RAM usage per process,
 
 Once you have all your Tor proccesses running, you can run one of the next scripts:
 
-## 02_Run_Request_Only_Tor.py**
+## 02_Run_Request_Only_Tor.py
 This scrip runs an http request in a loop using a different running Tor process each time
 
 <br />
