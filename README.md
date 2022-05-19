@@ -14,3 +14,4 @@ Install dependencies:
 pip install -r requirements.txt
 
 
+Tested on Python 3.9.12 (On Windows)
