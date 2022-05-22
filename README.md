@@ -14,6 +14,14 @@ This is a set of scripts that allows you to run http requests from different IPs
 
 ## Q/A
 
+### What's the main purpose of this?
+
+You can stress test your web servers (or others') by sending hundreds or thousands of packets containing custom form post requests, database searches and content loading requests.
+Each request needs less than 10KB of data, but that data can make some servers crash because of the need of high CPU and RAM usage to process them.
+(database search, email answering, forms etc.)
+
+
+
 ### Why 2 different scripts?
 
 Well, **Tor IPs are public**, so anyone can download and get the full list and block them, so in case a server blocks the Tor connections,
@@ -73,7 +81,7 @@ and after that it will start all of them. **(remember the RAM usage per process,
 Once you have all your Tor proccesses running, you can run one of the next scripts:
 
 ## 02_Run_Request_Only_Tor.py
-This scrip runs an http request in a loop using a different running Tor process each time
+This script runs an http request in a loop using a different running Tor process each time
 
 <br />
 
