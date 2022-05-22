@@ -74,7 +74,7 @@ The scripts are just examples so you will probably have to modify many parts of 
 
 ## Running the scripts
 
-First you neet to edit the settings in the **config.txt**
+First you need to edit the settings in the **config.txt**
 After that you have to run the **01_Start_Tor_Instances.py** and it will create all the needed config for each Tor intance
 and after that it will start all of them. **(remember the RAM usage per process, don't make you PC explode and destroy our galaxy)**
 
