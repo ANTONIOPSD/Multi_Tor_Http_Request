@@ -56,7 +56,7 @@ The scripts are just examples so you will probably have to modify many parts of 
 
 ### 1.  Donwload the latest tor-win64-0.x.x.x.zip from:
 ###     https://dist.torproject.org/torbrowser/
-###     Example: https://dist.torproject.org/torbrowser/11.0.11/tor-win64-0.4.6.10.zip
+###     Example: https://dist.torproject.org/torbrowser/11.0.13/tor-win64-0.4.7.7.zip
 
 ### 2.	Extract the files like in the image:
 <br />
